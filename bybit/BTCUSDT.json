@@ -1,4 +1,4 @@
-{"config_name": "static_grid_BTCUSDT_526days",
+{"config_name": "static_grid_BTCUSDT_526days-2",
  "logging_level": 0,
  "long": {"auto_unstuck_ema_dist": -0.022750302954513288,
           "auto_unstuck_wallet_exposure_threshold": 0.03708862247294753,
